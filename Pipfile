@@ -11,6 +11,8 @@ matplotlib = "*"
 jupyter = "*"
 autopep8 = "*"
 environment-kernels = "*"
+pandas = "*"
+mlxtend = "*"
 
 [requires]
 python_version = "3.7"
