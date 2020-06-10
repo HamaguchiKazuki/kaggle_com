@@ -11,6 +11,9 @@ matplotlib = "*"
 jupyter = "*"
 autopep8 = "*"
 environment-kernels = "*"
+kaggle = "*"
+pandas = "*"
+xgboost = "*"
 
 [requires]
 python_version = "3.7"
